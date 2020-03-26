@@ -1,0 +1,139 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+    background-color: rgb(57, 160, 138);
+    height: 200px;
+    font-family: Biko;
+}
+#wrapper{
+margin: 0 auto;
+border:3px outset rgb(42, 45, 43);
+width:300px;
+height:550px;
+padding:20px;
+border-radius: 10px;
+background-color:rgb(38, 43, 40);
+}
+#wrapper1{
+margin:15px;
+border:2px solid rgb(58, 61, 87);
+padding:15px;
+height: 200px;
+border-radius:3px;
+background-color:rgb(107, 138, 163);
+
+}
+#wrapper2{
+margin:15px;
+border: 2px solid rgb(21, 22, 21);
+margin-top:30px;
+padding:15px;
+height: 160px;
+border-radius:3px;
+background-color: rgb(98, 112, 104);
+}
+#wrapper3{
+margin: 0 auto;
+border: 2px solid rgb(19, 43, 28);
+width:55px;
+height:50px;
+margin-left:10px;
+border-radius:3px;
+background-color: #688392
+
+}
+              #wrapper4{
+margin:0 auto;
+border: 2px solid rgb(19, 43, 28);
+width:55px;
+height:50px;
+margin-right:10px;
+margin-top:-52px;
+ border-radius:3px;
+ background-color: rgb(138, 79, 68);
+}
+#wrapper5{
+margin:0 auto;
+border: 2px solid  rgb(19, 43, 28);
+width:55px;
+height:120px;
+margin-top:-35px;
+border-radius:3px;
+background-color: rgb(184, 78, 78);
+
+}
+
+#wrapper6{
+margin:0 auto;
+border: 2px solid  rgb(19, 43, 28);
+width:55px;
+height:50px;
+margin-left:10px;
+margin-top:-40px;
+border-radius:3px;
+background-color: rgb(172, 75, 51)
+}
+
+#wrapper7{
+margin:0 auto;
+border: 2px solid rgb(19, 43, 28);
+width:55px;
+height:50px;
+margin-right:10px;
+margin-top:-54px;
+border-radius:3px;
+background-color: rgb(53, 69, 122)
+}
+#line{
+margin:0 auto;
+border: 2px solid rgb(21, 22, 21);
+margin-top:70px;
+width:250px;
+}
+#snow{
+padding:12px;
+margin-left:1px;
+}
+#sun{
+padding:11px;
+margin-left:-1px;
+}
+#power{
+padding:11px;
+margin-left:1px;
+padding-top:40px;
+
+}
+#plus{
+padding:11px;
+}
+#minus{
+padding:11px;
+margin-left:3px;
+}
+#sun1{
+padding:18px;
+padding-top:2px;
+margin-left:3px;
+}
+#temperature{
+margin-left:24px;
+margin-top:-5px;
+font-size:28px;
+
+}
+#humidity{
+margin-left:24px;
+font-size:28px;
+
+}
+#time{
+margin-left:60px;
+margin-top:5px;
+font-size:30px;
+}
+#celsius{
+margin-left:57px;
+font-size:29px;
+margin-top:-62px;
+}
